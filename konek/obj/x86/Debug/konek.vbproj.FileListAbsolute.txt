@@ -1,0 +1,14 @@
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\konek\obj\x86\Debug\konek.Form1.resources
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\konek\obj\x86\Debug\konek.Resources.resources
+C:\Users\NDIAPPINK\AppData\Local\Temporary Projects\konek\obj\x86\Debug\konek.vbproj.GenerateResource.Cache
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\konek\konek\bin\Debug\konek.exe
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\konek\konek\bin\Debug\konek.pdb
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\konek\konek\bin\Debug\konek.xml
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\konek\konek\obj\x86\Debug\konek.Resources.resources
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\konek\konek\obj\x86\Debug\konek.vbproj.GenerateResource.Cache
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\konek\konek\obj\x86\Debug\konek.exe
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\konek\konek\obj\x86\Debug\konek.xml
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\konek\konek\obj\x86\Debug\konek.pdb
+C:\Users\NDIAPPINK\Documents\Visual Studio 2010\Projects\konek\konek\bin\Debug\konek.exe.config
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\konek\konek\obj\x86\Debug\konek.vbprojResolveAssemblyReference.cache
+C:\Users\NDIAPPINK\documents\visual studio 2010\Projects\konek\konek\obj\x86\Debug\konek.Laporan.resources
